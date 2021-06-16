@@ -28,9 +28,10 @@ h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 4em;
     line-height: 0;
-    color: white;
+    color: palegoldenrod;
     text-align: center;
     letter-spacing: 3px;
+    text-shadow: 2px 2px black;
 }
 
 h2 {
@@ -38,6 +39,7 @@ h2 {
     font-size: 2em;
     color: white;
     text-align: center;
+    text-shadow: 2px 2px black;
 }
 
 p {
@@ -51,7 +53,7 @@ p {
 li {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 1.2em;
-    color: palegoldenrod;
+    color: white;
 }
 
 .ingredients {
